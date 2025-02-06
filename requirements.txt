@@ -1,0 +1,10 @@
+streamlit
+requests
+google-ads
+datetime
+uuid
+protobuf
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
