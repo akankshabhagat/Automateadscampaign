@@ -8,7 +8,7 @@ google-auth
 google-auth-oauthlib
 google-auth-httplib2
 oauth2client
-requests==2.32.3
-requests-oauthlib==2.0.0
-typing_extensions==4.12.2
-transformers==4.48.2
+requests
+requests-oauthlib
+typing_extensions
+transformers
