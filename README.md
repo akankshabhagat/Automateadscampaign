@@ -4,7 +4,7 @@
 
 🚀 A simple **Streamlit chatbot** that helps you create **Google Ads campaigns** step by step.  
 It asks you **questions** and sets up a campaign **automatically**! 🎯  
-Demo Video: [Coming Soon]  
+
 
 ---
 
